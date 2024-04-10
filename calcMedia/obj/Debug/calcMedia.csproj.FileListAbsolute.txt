@@ -1,0 +1,10 @@
+C:\Users\Sexta-Feira\OneDrive\Área de Trabalho\atividades\calcMedia\calcMedia\bin\Debug\calcMedia.exe.config
+C:\Users\Sexta-Feira\OneDrive\Área de Trabalho\atividades\calcMedia\calcMedia\bin\Debug\calcMedia.exe
+C:\Users\Sexta-Feira\OneDrive\Área de Trabalho\atividades\calcMedia\calcMedia\bin\Debug\calcMedia.pdb
+C:\Users\Sexta-Feira\OneDrive\Área de Trabalho\atividades\calcMedia\calcMedia\obj\Debug\calcMedia.csproj.AssemblyReference.cache
+C:\Users\Sexta-Feira\OneDrive\Área de Trabalho\atividades\calcMedia\calcMedia\obj\Debug\calcMedia.Form1.resources
+C:\Users\Sexta-Feira\OneDrive\Área de Trabalho\atividades\calcMedia\calcMedia\obj\Debug\calcMedia.Properties.Resources.resources
+C:\Users\Sexta-Feira\OneDrive\Área de Trabalho\atividades\calcMedia\calcMedia\obj\Debug\calcMedia.csproj.GenerateResource.cache
+C:\Users\Sexta-Feira\OneDrive\Área de Trabalho\atividades\calcMedia\calcMedia\obj\Debug\calcMedia.csproj.CoreCompileInputs.cache
+C:\Users\Sexta-Feira\OneDrive\Área de Trabalho\atividades\calcMedia\calcMedia\obj\Debug\calcMedia.exe
+C:\Users\Sexta-Feira\OneDrive\Área de Trabalho\atividades\calcMedia\calcMedia\obj\Debug\calcMedia.pdb
